@@ -10,8 +10,6 @@
   
   111  cd DPR/
   
-  112  python manage.py migrate
-  
   113  pip install -r requirements.txt 
   
   114  python manage.py migrate
