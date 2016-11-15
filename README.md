@@ -17,5 +17,3 @@
   114  python manage.py migrate
   
   115  python manage.py runserver
-  
-  116  histoty
