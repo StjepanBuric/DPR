@@ -6,7 +6,7 @@
   
   109  . bin/activate
   
-  110  git clone git@github.com:VSITE-python/DPR.git
+  110  git clone https://github.com/VSITE-python/DPR.git
   
   111  cd DPR/
   
