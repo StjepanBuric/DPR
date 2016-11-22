@@ -1,17 +1,27 @@
-# DPR
+# DANAŠNJI ZADATAK
 
-  107  pyvenv davidimkolikomenitreba
+  1. podijelite se u grupe i rješavajte u grupi
+  2. forkajte ovaj repozitorij
+  3. klonirajte ga i instalirajte
+  4. napravite *management command* koja sa stranica HMB-a poziva današnji tečaj
+  5. napravite API pozive koristeći Django REST Framework Viewsets koji ispisuju listu tečajnih lista te pri pozivu ispisuju detalje tečajne liste
+  6. pushajte to na svoj repozitorij i napravite pull request prema ovome repozitoriju
+  7. najbolja grupa bira temu, ostalima ću ja zadati prema temi najbolje grupe
   
-  108  cd davidimkolikomenitreba/
+# INSTALACIJA
+
+  pyvenv davidimkolikomenitreba
   
-  109  . bin/activate
+  cd davidimkolikomenitreba/
   
-  110  git clone https://github.com/VSITE-python/DPR.git
+  . bin/activate
   
-  111  cd DPR/
+  git clone https://github.com/VSITE-python/DPR.git
   
-  113  pip install -r requirements.txt 
+  cd DPR/
   
-  114  python manage.py migrate
+  pip install -r requirements.txt 
   
-  115  python manage.py runserver
+  python manage.py migrate
+  
+  python manage.py runserver
