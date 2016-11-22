@@ -10,9 +10,9 @@
   
 # INSTALACIJA
 
-  pyvenv <dir>
+  pyvenv \<dir\>
   
-  cd <dir>/
+  cd \<dir\>/
   
   . bin/activate
   
